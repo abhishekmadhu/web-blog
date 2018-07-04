@@ -1,0 +1,3 @@
+1. After publishing a new post, the user is not
+redirected to the blogs or the posts page.
+Should be redirected to the list of his posts.
